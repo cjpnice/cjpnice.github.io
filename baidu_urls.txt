@@ -1,4 +1,4 @@
-http://cjpnice.github.io/post/hello-world.html
+http://cjpnice.github.io/post/Tensor.html
 http://cjpnice.github.io/post/ES6.html
 http://cjpnice.github.io/post/SpringBoot-mybatis.html
 http://cjpnice.github.io/post/DataStructure-ExchangeSort.html
